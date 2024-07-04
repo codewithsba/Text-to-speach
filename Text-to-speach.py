@@ -16,4 +16,4 @@ def text_to_speech(text, lang='en', slow=False):
 
 
 # Example usage
-text_to_speech("zakia you are lazy boy", lang='en', slow=True)
+text_to_speech("Hi welcome to our service.Thanks for visiting", lang='en', slow=True)
